@@ -10,3 +10,8 @@ body {
 h1,h2,h3 {
   font-weight: bold;
 }
+
+.sectionone {
+  background-image:url(./resource/the-flatiron-building.png);
+  color: white;
+}
