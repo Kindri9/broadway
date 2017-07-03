@@ -7,11 +7,44 @@ body {
   background-color: white;
 }
 
-h1,h2,h3 {
+h1 {
+  font-size: 70px;
   font-weight: bold;
 }
 
-.sectionone {
-  background-image:url(./resource/the-flatiron-building.png);
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.header {
   color: white;
+  background-image: url("../images/background.png");
+  background-size: cover;
+  background-position: center;
+  height: 275px;
+}
+
+.designed {
+  color: white;
+  background-image: url("../images/background.png");
+  background-size: cover;
+  background-position: center;
+  height: 30px;
+}
+
+.footer {
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+  background-size: cover;
+  background-position: center;
+  height: 25px;
+}
+
+.copywrite {
+  font-weight: 11px;
 }
