@@ -3,10 +3,6 @@ html {
   text-align: center;
 }
 
-body {
-  background-color: white;
-}
-
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -21,7 +17,6 @@ h3 {
 }
 
 .header {
-  color: white;
   background-image: url("../images/background.png");
   background-size: cover;
   background-position: center;
